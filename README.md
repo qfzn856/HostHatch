@@ -6,6 +6,8 @@ Picture this: you're looking for a VPS provider that doesn't treat you like just
 
 They started with one dedicated server. One. Now they're running their own network across 14+ global locations, serving thousands of customers from over 100 countries. That's the kind of growth you get when you focus on quality instead of just packing servers until they wheeze.
 
+<img width="3310" height="1646" alt="image" src="https://github.com/user-attachments/assets/97241798-7303-4108-9a45-39ae35c43bdb" />
+
 Here's what makes them different: they build everything on Dell EMC servers with AMD EPYC CPUs and Samsung enterprise NVMe storage. Translation? Your website loads fast, your apps run smooth, and you're not sharing CPU cycles with 500 other websites that are all fighting for resources at the same time.
 
 They operate in places like Los Angeles, New York, Chicago, London, Amsterdam, Stockholm, Singapore, Hong Kong, Tokyo, Sydney, and more. Whether you need something close to your users in Europe, Asia, or North America, they've got you covered.
